@@ -2,6 +2,9 @@
     font-family: "Times Newer Roman";
     src: times new roman.ttf;
 }
+div {
+  font-family: Times Newer Roman;
+}
 
 p, pre{
     font-family: "Times Newer Roman;
