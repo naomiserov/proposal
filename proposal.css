@@ -1,13 +1,13 @@
 @font-face {
-    font-family: "Times Newer Roman";
+    font-family: "Times New Roman, Times, serif";
     src: url('times new roman.ttf');
 }
 div {
-  font-family: Times Newer Roman;
+  font-family: Times New Roman, Times, serif;
 }
 
 p, pre{
-    font-family: "Times Newer Roman;
+    font-family: "Times New Roman, Times, serif;
     src: url('times new roman.ttf');
 }
 
