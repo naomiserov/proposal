@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "Times New Roman, Times, serif";
+    font-family: "TimesNewR";
     src: url('times new roman.ttf');
 }
 div {
@@ -7,7 +7,7 @@ div {
 }
 
 p, pre{
-    font-family: "Times New Roman, Times, serif;
+    font-family: "TimesNewR, Times New Roman, Times, serif";
     src: url('times new roman.ttf');
 }
 
