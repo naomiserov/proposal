@@ -6,18 +6,4 @@
 p, pre{
     font-family: "Times Newer Roman;
 }
-html,body {
-   margin: 0;
-    border: 0;
-    padding: 0;
-    height: 100%;
-    width: 100%;
-   background-color: white;
-    -webkit-overflow-scrolling: touch;
-    overflow-x: hidden;
-   }
-.main{
-    position: relative;
-    width: 100%;
-    height: auto;
-}
+
