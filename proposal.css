@@ -11,7 +11,7 @@ p, pre{
     src: url('times new roman.ttf');
     }
     
-    margin: 400px auto;       /* Margin outside the box */
+    margin: 50px auto;       /* Margin outside the box */
     padding: 20px;           /* Padding inside the box */
     max-width: 60px;        /* Limits the width */
     line-height: 1.3;        
