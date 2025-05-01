@@ -13,7 +13,7 @@ p, pre{
     
     margin: 400px auto;       /* Margin outside the box */
     padding: 20px;           /* Padding inside the box */
-    max-width: 40px;        /* Limits the width */
+    max-width: 60px;        /* Limits the width */
     line-height: 1.3;        
 }
 
