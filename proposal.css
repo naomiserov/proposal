@@ -9,6 +9,8 @@ div {
 p, pre{
     font-family: "TimesNewR, Times New Roman, Times, serif";
     src: url('times new roman.ttf');
+    }
+    
     margin: 400px auto;       /* Margin outside the box */
     padding: 20px;           /* Padding inside the box */
     max-width: 100px;        /* Limits the width */
