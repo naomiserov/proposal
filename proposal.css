@@ -19,10 +19,10 @@ p, pre{
   
 }
 
-.text-container {
+.text-container img {
   img src="IMG-20250501-WA0003.jpg"
-  width: 100%
-  max-width: 365px
+  width: 100%;
+  max-width: 365px;
 }
 .text-container p1 {
   margin: 0;
