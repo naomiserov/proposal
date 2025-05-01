@@ -22,9 +22,8 @@ p, pre{
 .text-container img {
   img src="IMG-20250501-WA0003.jpg"
   width: 100%;
-  max-width: 365px;
-  margin-left: 5px;
- 
+  max-width: calc(100vw-60px);
+  
 }
 
 }
