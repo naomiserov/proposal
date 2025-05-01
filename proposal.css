@@ -16,8 +16,14 @@ p, pre{
   margin: 30px auto;
   padding: 20px;
   margin-left: 5px
+  
 }
 
+.text-container {
+  img src="IMG-20250501-WA0003.jpg"
+  width: 100%
+  max-width: 365px
+}
 .text-container p1 {
   margin: 0;
   padding: 0;
@@ -27,10 +33,6 @@ p, pre{
 .text-container pre + pre {
   margin-top: 1em;
   
-.main-images{
-    position: relative;
-    max-width: 365px;
-    max-height: auto;
-}
+
 
 
