@@ -12,9 +12,10 @@ p, pre{
     }
 
 .text-container {
-  max-width: 300px;
+  max-width: 400px;
   margin: 40px auto;
   padding: 20px;
+  margin-right: 10px
 }
 
 .text-container pre {
@@ -25,6 +26,7 @@ p, pre{
 /* Adds spacing between multiple <pre> blocks */
 .text-container pre + pre {
   margin-top: 1em;
+  
 }
 
 
