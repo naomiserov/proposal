@@ -15,7 +15,7 @@ p, pre{
   max-width: 365px;
   margin: 30px auto;
   padding: 20px;
-
+  margin-left: 5px;
   
 }
 
@@ -23,7 +23,6 @@ p, pre{
   img src="IMG-20250501-WA0003.jpg"
   width: 100%;
   max-width: 365px;
-  margin-left: 5px;
   padding: 20px;
 }
 .text-container p1 {
