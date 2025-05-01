@@ -9,11 +9,9 @@ div {
 p, pre{
     font-family: "TimesNewR, Times New Roman, Times, serif";
     src: url('times new roman.ttf');
-}
-.text-container {
-  margin: 400px auto;       /* Margin outside the box */
-  padding: 20px;           /* Padding inside the box */
-  max-width: 100px;        /* Limits the width */
-  line-height: 1.6;        
+    margin: 400px auto;       /* Margin outside the box */
+    padding: 20px;           /* Padding inside the box */
+    max-width: 100px;        /* Limits the width */
+    line-height: 1.6;        
 }
 
