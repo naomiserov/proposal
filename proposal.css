@@ -27,6 +27,11 @@ p, pre{
 .text-container pre + pre {
   margin-top: 1em;
   
+.main-images{
+    position: relative;
+    width: 100%;
+    max-width: 365px;
+    max-height: auto;
 }
 
 
