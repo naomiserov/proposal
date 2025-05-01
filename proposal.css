@@ -13,9 +13,9 @@ p, pre{
 
 .text-container {
   max-width: 365px;
-  margin: 40px auto;
+  margin: 30px auto;
   padding: 20px;
-  margin-left: 10px
+  margin-left: 5px
 }
 
 .text-container pre {
