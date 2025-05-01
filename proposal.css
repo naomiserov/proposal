@@ -4,8 +4,6 @@
 }
 div {
   font-family: Times New Roman, Times, serif;
-  max-width: 100px;
-  margin: auto;
 }
 
 p, pre{
@@ -13,5 +11,20 @@ p, pre{
     src: url('times new roman.ttf');
     }
 
+.text-container {
+  max-width: 300px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.text-container pre {
+  margin: 0;
+  padding: 0;
+}
+
+/* Adds spacing between multiple <pre> blocks */
+.text-container pre + pre {
+  margin-top: 1em;
+}
 
 
