@@ -23,7 +23,11 @@ p, pre{
   img src="IMG-20250501-WA0003.jpg"
   width: 100%;
   max-width: 365px;
-  padding: 20px;
+  padding: 0 1em;
+  width: calc(100% - 2em);
+  box-sizing: border-box;
+}
+
 }
 .text-container p1 {
   margin: 0;
