@@ -11,14 +11,14 @@ p, pre{
     src: url('times new roman.ttf');
     }
 
-.text-container {
-  max-width: 370px;
+.text-container p {
+  max-width: 365px;
   margin: 30px auto;
   padding: 20px;
   margin-left: 5px
 }
 
-.text-container pre {
+.text-container p1 {
   margin: 0;
   padding: 0;
 }
